@@ -1,2 +1,2 @@
 # Image-Classification
-Forgery detection of Van-Gogh's painting using machine learning
+Image classification  using Gabor Filter Bank
