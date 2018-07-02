@@ -14,6 +14,8 @@ Image classification  using Gabor Filter Bank
 ![](images/Gabor%20Filter%20Bank.png)
 
 Performance metric:: F1-score
-##Result as a f1-score for each dimension
+##Result as a f1-score for each dimension (best result we have got 71.87% for first 21-principal components)
 ![](images/f1_Score.PNG)
+
+
 
