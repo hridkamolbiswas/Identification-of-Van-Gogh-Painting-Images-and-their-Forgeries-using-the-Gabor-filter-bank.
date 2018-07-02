@@ -14,4 +14,6 @@ Image classification  using Gabor Filter Bank
 ![](images/Gabor%20Filter%20Bank.png)
 
 Performance metric:: F1-score
+##Result as a f1-score for each dimension
+![](images/f1_Score.PNG)
 
