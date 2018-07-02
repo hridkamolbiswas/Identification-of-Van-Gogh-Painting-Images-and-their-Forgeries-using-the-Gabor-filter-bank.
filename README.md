@@ -3,6 +3,9 @@ Image classification  using Gabor Filter Bank
 ---
 #Pipeline of the project
 ![](images/pipeline_for_fe.PNG)
+
+#Dataset:: VGDB-2016
+
 ## Here left one is original Van Gogh's painting and right one is fake Van Goghs Painting
 ![](images/untitled.png)
 
