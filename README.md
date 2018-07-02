@@ -5,5 +5,5 @@ Image classification  using Gabor Filter Bank
 ![](images/untitled.png)
 
 ##The Gabor Filter bank(24 filter have been used to extract the feature: which gives 24 dimensional feature vector for each image
-![](images/2dgaborfinal3.eps)
+![](images/2dgaborfinal3.png)
 ![](images/Gabor%20Filter%20Bank.png)
